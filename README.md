@@ -1,7 +1,7 @@
 # TEM-NLnet_demo
 This project is for the paper, TEM-NLnet: A Deep Denoising Network for Transient Electromagnetic Signal with Noise Learning.
 
-**** The paper was accepted by IEEE TGRS, the full paper (link) will be available as soon as possible ****
+**** The paper was fully accepted by IEEE TGRS, the full paper is on here https://ieeexplore.ieee.org/document/9698089/authors#authors ****
 
 We will updata more codes as soon as possible. 
 
